@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Ouvrages', 'Luis Maia']
   spec.email         = ['contact@ouvrages-web.fr', 'luisgoncalo.maia@gmail.com']
 
-  spec.summary       = 'Use jQuery scrollTo in Rails 5.x and 6.x applications'
+  spec.summary       = 'jQuery scrollTo for Rails 5.x and 6.x applications'
   spec.description   = 'This provides out of the box jQuery scrollTo plugin assets for Rails 5.x and 6.x applications'
   spec.homepage      = 'https://github.com/luismaia/scrollto-rails6'
   spec.license       = 'MIT'
